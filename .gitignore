@@ -33,6 +33,9 @@ override.tf.json
 .terraformrc
 terraform.rc
 
-terraform.tfstate.backup
+
 .terraform.lock.hcl
-.gitignore
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
